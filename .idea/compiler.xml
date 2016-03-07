@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <option name="DEFAULT_COMPILER" value="Javac" />
+    <excludeFromCompile>
+      <file url="file://$USER_HOME$/.grails/2.5.0/projects/xzj-weixin/plugins/spring-security-core-2.0-RC4/src/java/grails/plugin/springsecurity/web/filter/IpAddressFilter.java" />
+      <file url="file://$USER_HOME$/.IntelliJIdea14/system/compile-server/xzj-weixin_9a472e87/groovyStubs/xzj-weixin-grailsPlugins/java-production/grails/plugin/springsecurity/InterceptedUrl.java" />
+      <file url="file://$USER_HOME$/.grails/2.5.0/projects/xzj-weixin/plugins/spring-security-core-2.0-RC4/src/java/grails/plugin/springsecurity/web/access/intercept/ChannelFilterInvocationSecurityMetadataSourceFactoryBean.java" />
+      <file url="file://$USER_HOME$/.grails/2.5.0/projects/xzj-weixin/plugins/spring-security-core-2.0-RC4/src/java/grails/plugin/springsecurity/web/authentication/FilterProcessUrlRequestMatcher.java" />
+      <file url="file://$USER_HOME$/.grails/2.5.0/projects/xzj-weixin/plugins/spring-security-core-2.0-RC4/src/java/grails/plugin/springsecurity/web/access/expression/WebExpressionConfigAttribute.java" />
+      <file url="file://$USER_HOME$/.grails/2.5.0/projects/xzj-weixin/plugins/spring-security-core-2.0-RC4/src/java/grails/plugin/springsecurity/authentication/NullAuthenticationEventPublisher.java" />
+      <file url="file://$USER_HOME$/.grails/2.5.0/projects/xzj-weixin/plugins/spring-security-core-2.0-RC4/src/java/grails/plugin/springsecurity/authentication/GrailsAnonymousAuthenticationToken.java" />
+      <file url="file://$USER_HOME$/.grails/2.5.0/projects/xzj-weixin/plugins/spring-security-core-2.0-RC4/src/java/grails/plugin/springsecurity/access/vote/ClosureConfigAttribute.java" />
+      <file url="file://$USER_HOME$/.grails/2.5.0/projects/xzj-weixin/plugins/spring-security-core-2.0-RC4/src/java/grails/plugin/springsecurity/web/access/intercept/AbstractFilterInvocationDefinition.java" />
+      <file url="file://$USER_HOME$/.grails/2.5.0/projects/xzj-weixin/plugins/cache-1.1.8/src/java/grails/plugin/cache/web/GenericResponseWrapper.java" />
+      <file url="file://$USER_HOME$/.grails/2.5.0/projects/xzj-weixin/plugins/quartz2-2.1.6.2/src/java/grails/plugin/quartz2/JobArtefactHandler.java" />
+      <file url="file://$USER_HOME$/.grails/2.5.0/projects/xzj-weixin/plugins/spring-security-core-2.0-RC4/src/java/grails/plugin/springsecurity/userdetails/DefaultPreAuthenticationChecks.java" />
+      <file url="file://$USER_HOME$/.grails/2.5.0/projects/xzj-weixin/plugins/spring-security-core-2.0-RC4/src/java/grails/plugin/springsecurity/web/filter/GrailsAnonymousAuthenticationFilter.java" />
+      <file url="file://$USER_HOME$/.grails/2.5.0/projects/xzj-weixin/plugins/spring-security-core-2.0-RC4/src/java/grails/plugin/springsecurity/web/access/GrailsWebInvocationPrivilegeEvaluator.java" />
+      <file url="file://$USER_HOME$/.grails/2.5.0/projects/xzj-weixin/plugins/quartz2-2.1.6.2/src/java/grails/plugin/quartz2/GrailsJobFactory.java" />
+      <file url="file://$USER_HOME$/.grails/2.5.0/projects/xzj-weixin/plugins/spring-security-core-2.0-RC4/src/java/grails/plugin/springsecurity/authentication/encoding/DigestAuthPasswordEncoder.java" />
+      <file url="file://$USER_HOME$/.grails/2.5.0/projects/xzj-weixin/plugins/spring-security-core-2.0-RC4/src/java/grails/plugin/springsecurity/web/access/channel/HeaderCheckInsecureChannelProcessor.java" />
+      <file url="file://$USER_HOME$/.grails/2.5.0/projects/xzj-weixin/plugins/spring-security-core-2.0-RC4/src/java/grails/plugin/springsecurity/web/authentication/switchuser/NullSwitchUserAuthorityChanger.java" />
+      <file url="file://$USER_HOME$/.grails/2.5.0/projects/xzj-weixin/plugins/spring-security-core-2.0-RC4/src/java/grails/plugin/springsecurity/authentication/encoding/BCryptPasswordEncoder.java" />
+      <file url="file://$USER_HOME$/.grails/2.5.0/projects/xzj-weixin/plugins/spring-security-core-2.0-RC4/src/java/grails/plugin/springsecurity/web/authentication/logout/MutableLogoutFilter.java" />
+      <file url="file://$USER_HOME$/.grails/2.5.0/projects/xzj-weixin/plugins/quartz2-2.1.6.2/src/java/grails/plugin/quartz2/GrailsJobClassConstants.java" />
+      <file url="file://$USER_HOME$/.grails/2.5.0/projects/xzj-weixin/plugins/spring-security-core-2.0-RC4/src/java/grails/plugin/springsecurity/SecurityEventListener.java" />
+      <file url="file://$USER_HOME$/.grails/2.5.0/projects/xzj-weixin/plugins/cache-1.1.8/src/java/grails/plugin/cache/web/filter/PageFragmentCachingFilter.java" />
+      <file url="file://$USER_HOME$/.grails/2.5.0/projects/xzj-weixin/plugins/spring-security-core-2.0-RC4/src/java/grails/plugin/springsecurity/web/access/intercept/RequestmapFilterInvocationDefinition.java" />
+      <file url="file://$USER_HOME$/.grails/2.5.0/projects/xzj-weixin/plugins/spring-security-core-2.0-RC4/src/java/grails/plugin/springsecurity/web/access/expression/WebExpressionVoter.java" />
+      <file url="file://$USER_HOME$/.grails/2.5.0/projects/xzj-weixin/plugins/spring-security-core-2.0-RC4/src/java/grails/plugin/springsecurity/access/intercept/NullAfterInvocationManager.java" />
+      <file url="file://$USER_HOME$/.grails/2.5.0/projects/xzj-weixin/plugins/spring-security-core-2.0-RC4/src/java/grails/plugin/springsecurity/web/authentication/preauth/x509/ClosureX509PrincipalExtractor.java" />
+      <file url="file://$USER_HOME$/.grails/2.5.0/projects/xzj-weixin/plugins/spring-security-core-2.0-RC4/src/java/grails/plugin/springsecurity/web/access/intercept/InterceptUrlMapFilterInvocationDefinition.java" />
+      <file url="file://$USER_HOME$/.grails/2.5.0/projects/xzj-weixin/plugins/spring-security-core-2.0-RC4/src/java/grails/plugin/springsecurity/web/authentication/AjaxAwareAuthenticationEntryPoint.java" />
+      <file url="file://$USER_HOME$/.grails/2.5.0/projects/xzj-weixin/plugins/spring-security-core-2.0-RC4/src/java/grails/plugin/springsecurity/userdetails/GrailsUser.java" />
+      <file url="file://$USER_HOME$/.grails/2.5.0/projects/xzj-weixin/plugins/quartz2-2.1.6.2/src/java/grails/plugin/quartz2/DefaultGrailsJobClass.java" />
+      <file url="file://$USER_HOME$/.grails/2.5.0/projects/xzj-weixin/plugins/spring-security-core-2.0-RC4/src/java/grails/plugin/springsecurity/userdetails/NoStackUsernameNotFoundException.java" />
+      <file url="file://$USER_HOME$/.grails/2.5.0/projects/xzj-weixin/plugins/spring-security-core-2.0-RC4/src/java/grails/plugin/springsecurity/access/NullAfterInvocationProvider.java" />
+      <file url="file://$USER_HOME$/.grails/2.5.0/projects/xzj-weixin/plugins/tomcat-7.0.55.2/src/java/org/grails/plugins/tomcat/TomcatKillSwitch.java" />
+      <file url="file://$USER_HOME$/.grails/2.5.0/projects/xzj-weixin/plugins/quartz2-2.1.6.2/src/java/grails/plugin/quartz2/LocalDataSourceJobStore.java" />
+      <file url="file://$USER_HOME$/.grails/2.5.0/projects/xzj-weixin/plugins/spring-security-core-2.0-RC4/src/java/grails/plugin/springsecurity/web/access/AjaxAwareAccessDeniedHandler.java" />
+      <file url="file://$USER_HOME$/.grails/2.5.0/projects/xzj-weixin/plugins/spring-security-core-2.0-RC4/src/java/grails/plugin/springsecurity/web/access/intercept/AnnotationFilterInvocationDefinition.java" />
+      <file url="file://$USER_HOME$/.grails/2.5.0/projects/xzj-weixin/plugins/spring-security-core-2.0-RC4/src/java/grails/plugin/springsecurity/userdetails/GrailsUserDetailsService.java" />
+      <file url="file://$USER_HOME$/.grails/2.5.0/projects/xzj-weixin/plugins/quartz2-2.1.6.2/src/java/grails/plugin/quartz2/GrailsArtefactNonConcurrentJob.java" />
+      <file url="file://$USER_HOME$/.grails/2.5.0/projects/xzj-weixin/plugins/quartz2-2.1.6.2/src/java/grails/plugin/quartz2/GrailsArtefactJob.java" />
+      <file url="file://$USER_HOME$/.grails/2.5.0/projects/xzj-weixin/plugins/spring-security-core-2.0-RC4/src/java/grails/plugin/springsecurity/web/authentication/NullLogoutHandlerRememberMeServices.java" />
+      <file url="file://$USER_HOME$/.grails/2.5.0/projects/xzj-weixin/plugins/scaffolding-2.1.2/src/java/org/codehaus/groovy/grails/scaffolding/AbstractGrailsTemplateGenerator.java" />
+      <file url="file://$USER_HOME$/.grails/2.5.0/projects/xzj-weixin/plugins/quartz2-2.1.6.2/src/java/grails/plugin/quartz2/GrailsJobClass.java" />
+      <file url="file://$USER_HOME$/.grails/2.5.0/projects/xzj-weixin/plugins/cache-1.1.8/src/java/grails/plugin/cache/web/filter/simple/MemoryPageFragmentCachingFilter.java" />
+      <file url="file://$USER_HOME$/.grails/2.5.0/projects/xzj-weixin/plugins/spring-security-core-2.0-RC4/src/java/grails/plugin/springsecurity/authentication/encoding/PBKDF2PasswordEncoder.java" />
+      <file url="file://$USER_HOME$/.grails/2.5.0/projects/xzj-weixin/plugins/spring-security-core-2.0-RC4/src/java/grails/plugin/springsecurity/web/authentication/AjaxAwareAuthenticationFailureHandler.java" />
+      <file url="file://$USER_HOME$/.grails/2.5.0/projects/xzj-weixin/plugins/spring-security-core-2.0-RC4/src/java/grails/plugin/springsecurity/web/filter/DebugFilter.java" />
+      <file url="file://$USER_HOME$/.grails/2.5.0/projects/xzj-weixin/plugins/spring-security-core-2.0-RC4/src/java/grails/plugin/springsecurity/web/authentication/RequestHolderAuthenticationFilter.java" />
+      <file url="file://$USER_HOME$/.grails/2.5.0/projects/xzj-weixin/plugins/spring-security-core-2.0-RC4/src/java/grails/plugin/springsecurity/access/vote/ClosureVoter.java" />
+      <file url="file://$USER_HOME$/.grails/2.5.0/projects/xzj-weixin/plugins/spring-security-core-2.0-RC4/src/java/grails/plugin/springsecurity/CryptoEncoderWrapper.java" />
+      <file url="file://$USER_HOME$/.grails/2.5.0/projects/xzj-weixin/plugins/spring-security-core-2.0-RC4/src/java/grails/plugin/springsecurity/authentication/dao/NullSaltSource.java" />
+      <file url="file://$USER_HOME$/.grails/2.5.0/projects/xzj-weixin/plugins/spring-security-core-2.0-RC4/src/java/grails/plugin/springsecurity/annotation/SecuredClosureDelegate.java" />
+      <file url="file://$USER_HOME$/.grails/2.5.0/projects/xzj-weixin/plugins/spring-security-core-2.0-RC4/src/java/grails/plugin/springsecurity/access/vote/AuthenticatedVetoableDecisionManager.java" />
+      <file url="file://$USER_HOME$/.grails/2.5.0/projects/xzj-weixin/plugins/spring-security-core-2.0-RC4/src/java/grails/plugin/springsecurity/web/NullFilterChainValidator.java" />
+      <file url="file://$USER_HOME$/.grails/2.5.0/projects/xzj-weixin/plugins/spring-security-core-2.0-RC4/src/java/grails/plugin/springsecurity/userdetails/DefaultPostAuthenticationChecks.java" />
+      <file url="file://$USER_HOME$/.grails/2.5.0/projects/xzj-weixin/plugins/spring-security-core-2.0-RC4/src/java/grails/plugin/springsecurity/SpringSecurityUtils.java" />
+      <file url="file://$USER_HOME$/.grails/2.5.0/projects/xzj-weixin/plugins/spring-security-core-2.0-RC4/src/java/grails/plugin/springsecurity/web/filter/GrailsRememberMeAuthenticationFilter.java" />
+      <file url="file://$USER_HOME$/.grails/2.5.0/projects/xzj-weixin/plugins/spring-security-core-2.0-RC4/src/java/grails/plugin/springsecurity/authentication/GrailsAnonymousAuthenticationProvider.java" />
+      <file url="file://$USER_HOME$/.grails/2.5.0/projects/xzj-weixin/plugins/spring-security-core-2.0-RC4/src/java/grails/plugin/springsecurity/web/access/channel/HeaderCheckSecureChannelProcessor.java" />
+      <file url="file://$USER_HOME$/.grails/2.5.0/projects/xzj-weixin/plugins/spring-security-core-2.0-RC4/src/java/grails/plugin/springsecurity/web/authentication/AjaxAwareAuthenticationSuccessHandler.java" />
+      <file url="file://$USER_HOME$/.grails/2.5.0/projects/xzj-weixin/plugins/spring-security-core-2.0-RC4/src/java/grails/plugin/springsecurity/web/access/DefaultThrowableAnalyzer.java" />
+      <file url="file://$USER_HOME$/.grails/2.5.0/projects/xzj-weixin/plugins/cache-1.1.8/src/java/grails/plugin/cache/web/filter/NoOpFilter.java" />
+      <file url="file://$USER_HOME$/.grails/2.5.0/projects/xzj-weixin/plugins/spring-security-core-2.0-RC4/src/java/grails/plugin/springsecurity/annotation/AuthoritiesTransformation.java" />
+      <file url="file://$USER_HOME$/.grails/2.5.0/projects/xzj-weixin/plugins/quartz-1.0.2/src/java/grails/plugins/quartz/JobDetailFactoryBean.java" />
+      <file url="file://$USER_HOME$/.grails/2.5.0/projects/xzj-weixin/plugins/quartz-1.0.2/src/java/grails/plugins/quartz/listeners/SessionBinderJobListener.java" />
+      <file url="file://$USER_HOME$/.grails/2.5.0/projects/xzj-weixin/plugins/quartz-1.0.2/src/java/grails/plugins/quartz/JobArtefactHandler.java" />
+      <file url="file://$USER_HOME$/.grails/2.5.0/projects/xzj-weixin/plugins/quartz-1.0.2/src/java/grails/plugins/quartz/DefaultGrailsJobClass.java" />
+      <file url="file://$USER_HOME$/.grails/2.5.0/projects/xzj-weixin/plugins/quartz-1.0.2/src/java/grails/plugins/quartz/GrailsJobClassConstants.java" />
+      <file url="file://$USER_HOME$/.grails/2.5.0/projects/xzj-weixin/plugins/quartz-1.0.2/src/java/grails/plugins/quartz/GrailsJobFactory.java" />
+      <file url="file://$USER_HOME$/.grails/2.5.0/projects/xzj-weixin/plugins/quartz-1.0.2/src/java/grails/plugins/quartz/listeners/ExceptionPrinterJobListener.java" />
+      <file url="file://$USER_HOME$/.grails/2.5.0/projects/xzj-weixin/plugins/quartz-1.0.2/src/java/grails/plugins/quartz/CustomTriggerFactoryBean.java" />
+    </excludeFromCompile>
+    <resourceExtensions />
+    <wildcardResourcePatterns>
+      <entry name="?*.properties" />
+      <entry name="?*.xml" />
+      <entry name="?*.gif" />
+      <entry name="?*.png" />
+      <entry name="?*.jpeg" />
+      <entry name="?*.jpg" />
+      <entry name="?*.html" />
+      <entry name="?*.dtd" />
+      <entry name="?*.tld" />
+      <entry name="?*.ftl" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="false">
+        <processorPath useClasspath="true" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="GreclipseSettings">
+    <option name="greclipsePath" value="C:\Users\Kevin\Desktop\groovy-eclipse-batch-2.4.3-01.jar" />
+  </component>
+</project>

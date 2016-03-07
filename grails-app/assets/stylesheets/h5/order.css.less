@@ -1,0 +1,257 @@
+/*
+ * Copyright (c) 2015 广州市源穑农业科技发展有限公司 版权所有
+ * GUANGZHOU YUANSE AGRICULTURE TECHNOLOGY CO.,LTD. All Rights Reserved.
+ */
+
+@import "color";
+
+.display-status.pending-payment:after {
+  content: "待付款";
+  color: @redColor;
+}
+
+.display-status.pending-conf-deliver-time:after {
+  content: "待选择收货时间";
+  color: @blueColor;
+}
+
+.display-status.pending-delivery:after {
+  content: "待发货";
+  color: @blackColor;
+}
+
+.display-status.delivering:after {
+  content: "发货中";
+  color: @greenColor;
+}
+
+.display-status.pending-retrieval:after {
+  content: "待取货";
+  color: orangered;
+}
+
+.display-status.pending-comment:after {
+  content: "待评价";
+  color: indianred;
+}
+
+.display-status.pending-refund:after {
+  content: "待退款";
+  color: greenyellow;
+}
+
+.display-status.cancelled:after {
+  content: "已退款";
+  color: grey;
+}
+
+.display-status.error:after {
+  content: "异常状态";
+  color: red;
+}
+
+#ul-list-order.list {
+
+  > li > a {
+    margin: 0;
+    padding: 0;
+  }
+}
+
+#order-detail-panel {
+  .image-title {
+    padding: 10px;
+    .product-title {
+      padding: 0 10px;
+    }
+  }
+
+  .label,
+  .value {
+    padding: 3px 10px;
+  }
+  .label {
+    text-align: right;
+  }
+
+  .value {
+    text-align: left;
+  }
+
+  .title {
+    border-bottom: 1px solid #c92828;
+    margin-top: 10px;
+
+    span {
+      color: white;
+      background-color: #c92828;
+      font-weight: bold;
+      padding: 3px 5px;
+      border-top-right-radius: 6px;
+    }
+  }
+
+  .price:before {
+    content: "￥";
+  }
+
+  .status-group {
+    display: -webkit-box; /* OLD - iOS 6-, Safari 3.1-6 */
+    display: -moz-box; /* OLD - Firefox 19- (buggy but mostly works) */
+    display: -ms-flexbox; /* TWEENER - IE 10 */
+    display: -webkit-flex; /* NEW - Chrome */
+    display: flex; /* NEW, Spec - Opera 12.1, Firefox 20+ */
+    width: 100%;
+
+    .status-box {
+      display: block;
+      padding: 3px;
+      flex-grow: 1;
+      border-right: 1px solid white;
+      background-color: @orangeColor;
+      text-align: center;
+      color: white;
+    }
+
+    .highlighted {
+      background-color: @orangeColor;
+      color: white;
+    }
+
+    .highlighted ~ .status-box {
+      background-color: @greyColor;
+      color: @blackColor;
+    }
+
+    .highlighted + .status-box {
+      background: -moz-linear-gradient(330deg, @orangeColor 0%, @greyColor 100%);
+      background: -webkit-gradient(linear, left top, right bottom, color-stop(0%, @orangeColor), color-stop(100%, @greyColor));
+      background: -webkit-linear-gradient(330deg, @orangeColor 0%, @greyColor 100%);
+      background: -o-linear-gradient(330deg, @orangeColor 0%, @greyColor 100%);
+      background: -ms-linear-gradient(330deg, @orangeColor 0%, @greyColor 100%);
+      background: linear-gradient(120deg, @orangeColor 0%, @greyColor 100%);
+      color: white;
+    }
+  }
+  .button{
+    border: none;
+    border-radius: 5px;
+  }
+  .chg-address-button {
+    background: @blueColor;
+    color: white;
+  }
+}
+
+#confirm-order-panel {
+
+  .account-balance,
+  .pay-method {
+    padding: 5px 10px;
+  }
+
+  input[type="checkbox"] + label {
+    float: left;
+    margin-left: 26px;
+    padding: 0 0 0 8px;
+    width: auto;
+  }
+
+  .title,
+  .content{
+    padding: 10px;
+  }
+
+  .content {
+    text-align: end;
+  }
+
+  input[type="checkbox"] + label:before{
+    background: #fafafa;
+    top:-3px;
+  }
+
+  input[type="checkbox"]:checked + label:before{
+    background: @lightGreenColor;
+  }
+
+  .account-balance {
+    padding: 0;
+    color: @greyColor;
+  }
+}
+
+div.confirm-time-group{
+  div#choose-time {
+    input[type="radio"]:checked + label:before{
+      background: @lightGreenColor;
+    }
+    input[type="radio"]:checked + label{
+      font-weight: bold;
+    }
+  }
+  div#select-time{
+    display: inline-block;
+    width: 140%;
+    position: relative;
+    text-align: center;
+
+    select#lx_day_further {
+      display: inline-block;
+      position: relative;
+      text-align: left;
+      margin-top: 3px;
+      padding: 0px;
+      text-indent: 25%;
+      border: 1px dotted @lightGreenColor;
+    }
+    .bold {
+      font-weight: bold;
+      border: 2px solid @lightGreenColor!important;
+    }
+  }
+}
+
+section.payment-info {
+  input[type="radio"] + label {
+    float: left;
+    margin-left: 26px;
+    padding: 0 0 0 8px;
+    width: auto;
+  }
+
+  input[type="radio"] + label:before {
+    top: -3px;
+  }
+
+  input[type="radio"]:checked + label:before {
+    content: '\00a0\2714';
+    background: #89bc25;
+  }
+}
+
+#promotionCode1{
+  width: 70%;
+  margin: auto 10px;
+}
+
+.promotion-desc {
+  color: @redColor;
+  text-align: center;
+}
+
+.price-detail-box {
+  border: 1px solid @greenColor;
+  margin: 5px 10px;
+  border-style: dashed;
+
+  .price-detail-title {
+    border-bottom: 1px solid @greenColor;
+    border-bottom-style: dashed;
+  }
+
+  .price {
+    color: inherit;
+    font-size: inherit;
+  }
+}

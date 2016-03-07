@@ -1,0 +1,2164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/grails-app/domain/net/xunzhenji/mall/LxGroup.groovy" description="def _sameBatchOrders = sameBatchOrders(batch)" line="102" />
+    <bookmark url="file://$PROJECT_DIR$/grails-app/controllers/net/xunzhenji/mall/H5Controller.groovy" description="                    def delivery = new Delivery(ta..." line="974" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="842e01e3-a8a8-4c48-b1d4-46eb9abc06b3" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/stacktrace.log" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/services/net/xunzhenji/MobileMsgService.groovy" afterPath="$PROJECT_DIR$/grails-app/services/net/xunzhenji/MobileMsgService.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/services/net/xunzhenji/OdooService.groovy" afterPath="$PROJECT_DIR$/grails-app/services/net/xunzhenji/OdooService.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/manufacture/_form.gsp" afterPath="$PROJECT_DIR$/grails-app/views/manufacture/_form.gsp" />
+    </list>
+    <list id="00fa15c8-a8f0-4b82-a47a-4547aa53f636" name="ignore" comment="ignore">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xzj-weixin-grailsPlugins.iml" afterPath="$PROJECT_DIR$/xzj-weixin-grailsPlugins.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xzj-weixin.iml" afterPath="$PROJECT_DIR$/xzj-weixin.iml" />
+    </list>
+    <ignored path="xzj-weixin.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/classes/" />
+    <ignored path="$PROJECT_DIR$/target/test-classes/" />
+    <ignored path="$USER_HOME$/.grails/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <ignored path="target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="C:\opt\source\xzj-weixin" />
+  </component>
+  <component name="DatabaseView">
+    <option name="FLATTEN" value="false" />
+    <option name="GROUP_BY_TYPE" value="true" />
+    <option name="SORT_CHILDREN" value="false" />
+    <option name="SHOW_TABLE_CONSTRAINTS" value="true" />
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DbRootNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="xzj-weixin" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="_home.gsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grails-app/views/workflow/_home.gsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="133" column="37" selection-start-line="133" selection-start-column="37" selection-end-line="133" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WorkflowController.groovy" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grails-app/controllers/net/xunzhenji/workflow/WorkflowController.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="82" column="38" selection-start-line="82" selection-start-column="38" selection-end-line="82" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Procurement.groovy" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grails-app/domain/net/xunzhenji/shop/Procurement.groovy">
+          <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_form.gsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grails-app/views/procurement/_form.gsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="51" column="13" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Manufacture.groovy" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grails-app/domain/net/xunzhenji/shop/Manufacture.groovy">
+          <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BootStrap.groovy" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/grails-app/conf/BootStrap.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.06318083">
+              <caret line="331" column="37" selection-start-line="331" selection-start-column="37" selection-end-line="331" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="messages_zh_CN.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grails-app/i18n/messages_zh_CN.properties">
+          <provider editor-type-id="ResourceBundle">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="38" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FormatUtil.groovy" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grails-app/utils/net/xunzhenji/util/FormatUtil.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="105" column="5" selection-start-line="105" selection-start-column="5" selection-end-line="105" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.gsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grails-app/views/h5/home.gsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="common.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grails-app/assets/javascripts/h5/common.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="363" column="56" selection-start-line="363" selection-start-column="56" selection-end-line="363" selection-end-column="56" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Kevin &lt;kevinzjpeng@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="coupon" />
+      </map>
+    </option>
+    <option name="RESET_MODE" value="MIXED" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/grails-app/views/manufacture/index.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/views/manufacture/show.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/views/shop/show.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/views/stockMove/index.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/controllers/net/xunzhenji/SessionController.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/conf/net/xunzhenji/filter/WeChatSecurityFilters.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/domain/net/xunzhenji/shop/Warehouse.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/domain/net/xunzhenji/workflow/MiaoXinWorkflow.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/views/miaoXinWorkflow/index.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/views/miaoXinWorkflow/_form.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/controllers/net/xunzhenji/WeChatSimulatorController.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/domain/net/xunzhenji/shop/Source.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/domain/net/xunzhenji/shop/Manufacture.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/domain/net/xunzhenji/shop/Procurement.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/domain/net/xunzhenji/shop/ShopDelivery.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/views/miaoXinProcess/_form.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/views/shopDelivery/_form.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/assets/stylesheets/workflow/workflow-manifest.css" />
+        <option value="$PROJECT_DIR$/grails-app/views/workflow/_manufactureList.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/views/procurement/_form.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/views/_adminNav.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/controllers/net/xunzhenji/shop/SourceController.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/views/source/index.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/views/source/show.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/views/miaoXinProcess/index.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/views/stockMove/show.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/views/stockMove/_form.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/i18n/messages_zh_CN.properties" />
+        <option value="$PROJECT_DIR$/grails-app/controllers/net/xunzhenji/workflow/MiaoXinProcessController.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/views/miaoXinProcess/show.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/views/source/_form.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/domain/net/xunzhenji/shop/StockMove.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/views/procurement/show.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/views/h5/_links.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/views/workflow/miaoxin.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/views/workflow/_deliveryList.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/views/workflow/_delivery.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/assets/stylesheets/workflow/miaoxin.css.less" />
+        <option value="$PROJECT_DIR$/grails-app/conf/BootStrap.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/views/workflow/_procurementList.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/views/workflow/_manufacture.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/assets/javascripts/workflow/miaoxin.js" />
+        <option value="$PROJECT_DIR$/grails-app/views/workflow/_home.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/controllers/net/xunzhenji/shop/ShopController.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/views/shop/_form.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/services/net/xunzhenji/wechat/WeChatPullService.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/controllers/net/xunzhenji/wechat/WeChatController.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/domain/net/xunzhenji/workflow/MiaoXinProcess.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/utils/net/xunzhenji/util/FormatUtil.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/controllers/net/xunzhenji/workflow/WorkflowController.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/views/manufacture/_form.gsp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1296" />
+    <option name="height" value="776" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="2" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="101" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="131" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="130" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="917" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="306" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="305" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="309" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="359" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="FullScreen" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="OverrideImplement.overriding.sorted" value="false" />
+    <property name="ChangesBrowser.SHOW_FLATTEN" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="net.xunzhenji.wechat" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\opt\source\xzj-weixin\grails-app\views\workflow" />
+      <recent name="C:\opt\source\xzj-weixin\grails-app\controllers\net\xunzhenji\workflow" />
+      <recent name="C:\opt\source\xzj-weixin\grails-app\assets\stylesheets\weui" />
+      <recent name="C:\opt\source\xzj-weixin\grails-app\assets\javascripts\workflow" />
+      <recent name="C:\opt\source\xzj-weixin\grails-app\assets\stylesheets\workflow" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\opt\source\xzj-weixin\grails-app\assets\javascripts\weui" />
+      <recent name="C:\opt\source\xzj-weixin\grails-app\views\order" />
+      <recent name="C:\opt\source\xzj-weixin\grails-app\assets\javascripts\h5" />
+      <recent name="C:\opt\source\xzj-weixin\web-app\alipay" />
+      <recent name="C:\opt\source\xzj-weixin\grails-app\views\h5" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="net.xunzhenji.wechat" />
+      <recent name="net.xunzhenji.vendor" />
+      <recent name="net.xunzhenji" />
+      <recent name="net.xunzhenji.mall" />
+      <recent name="net.xunzhenji.model" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="net.xunzhenji.workflow" />
+      <recent name="net.xunzhenji.shop" />
+      <recent name="net.xunzhenji.model" />
+      <recent name="net.xunzhenji.jobs" />
+      <recent name="net.xunzhenji" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Grails.Grails:xzj-weixin">
+    <configuration default="false" name="QuoteControllerSpec" type="GrailsRunConfigurationType" factoryName="Grails" temporary="true">
+      <module name="xzj-weixin" />
+      <setting name="vmparams" value="-Dgrails.full.stacktrace=true" />
+      <setting name="cmdLine" value="test-app unit: net.xunzhenji.shop.QuoteControllerSpec -echoOut" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="HomeControllerSpec" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="net.xunzhenji.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="xzj-weixin" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="net.xunzhenji" />
+      <option name="MAIN_CLASS_NAME" value="net.xunzhenji.HomeControllerSpec" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="QuoteSpec.setup" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="net.xunzhenji.shop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="xzj-weixin" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="net.xunzhenji.shop" />
+      <option name="MAIN_CLASS_NAME" value="net.xunzhenji.shop.QuoteSpec" />
+      <option name="METHOD_NAME" value="setup" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="Test that the edit action returns the correct model()" type="GrailsRunConfigurationType" factoryName="Grails" temporary="true">
+      <module name="xzj-weixin" />
+      <setting name="vmparams" value="-Dgrails.full.stacktrace=true" />
+      <setting name="cmdLine" value="test-app unit: &quot;net.xunzhenji.shop.ProcurementControllerSpec.Test that the edit action returns the correct model&quot; -echoOut" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Test the save action correctly persists an instance()" type="GrailsRunConfigurationType" factoryName="Grails" temporary="true">
+      <module name="xzj-weixin" />
+      <setting name="vmparams" value="-Dgrails.full.stacktrace=true" />
+      <setting name="cmdLine" value="test-app unit: &quot;net.xunzhenji.workflow.FarmToShopWorkFlowControllerSpec.Test the save action correctly persists an instance&quot; -echoOut" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_DEVICE_PROJECT_ID" value="" />
+      <option name="IS_VALID_CLOUD_MATRIX_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_MATRIX_SELECTION_ERROR" value="" />
+      <option name="IS_VALID_CLOUD_DEVICE_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_DEVICE_SELECTION_ERROR" value="" />
+      <option name="CLOUD_DEVICE_SERIAL_NUMBER" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_DEVICE_PROJECT_ID" value="" />
+      <option name="IS_VALID_CLOUD_MATRIX_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_MATRIX_SELECTION_ERROR" value="" />
+      <option name="IS_VALID_CLOUD_DEVICE_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_DEVICE_SELECTION_ERROR" value="" />
+      <option name="CLOUD_DEVICE_SERIAL_NUMBER" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <configuration default="false" name="Grails:xzj-weixin" type="GrailsRunConfigurationType" factoryName="Grails">
+      <module name="xzj-weixin" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="Grails.Grails:xzj-weixin" />
+      <item index="1" class="java.lang.String" itemvalue="Grails.QuoteControllerSpec" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.HomeControllerSpec" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.QuoteSpec.setup" />
+      <item index="4" class="java.lang.String" itemvalue="Grails.Test that the edit action returns the correct model()" />
+      <item index="5" class="java.lang.String" itemvalue="Grails.Test the save action correctly persists an instance()" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Grails.Test the save action correctly persists an instance()" />
+        <item index="1" class="java.lang.String" itemvalue="Grails.Test that the edit action returns the correct model()" />
+        <item index="2" class="java.lang.String" itemvalue="Grails.QuoteControllerSpec" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.QuoteSpec.setup" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.HomeControllerSpec" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="842e01e3-a8a8-4c48-b1d4-46eb9abc06b3" name="Default" comment="" />
+      <changelist id="00fa15c8-a8f0-4b82-a47a-4547aa53f636" name="ignore" comment="" />
+      <created>1439814697550</created>
+      <option name="number" value="Default" />
+      <updated>1439814697550</updated>
+      <workItem from="1439814695088" duration="13943000" />
+      <workItem from="1439828741441" duration="1691000" />
+      <workItem from="1439858162026" duration="2635000" />
+      <workItem from="1439862521679" duration="18296000" />
+      <workItem from="1439900389745" duration="15131000" />
+      <workItem from="1439916313593" duration="1695000" />
+      <workItem from="1439946307386" duration="20665000" />
+      <workItem from="1439979433839" duration="1137000" />
+      <workItem from="1439988311255" duration="15242000" />
+      <workItem from="1440036176931" duration="20254000" />
+      <workItem from="1440075750875" duration="5108000" />
+      <workItem from="1440120188423" duration="88000" />
+      <workItem from="1440120281053" duration="18459000" />
+      <workItem from="1440209670402" duration="1141000" />
+      <workItem from="1440223542021" duration="11276000" />
+      <workItem from="1440252214676" duration="8990000" />
+      <workItem from="1440261338829" duration="643000" />
+      <workItem from="1440291378660" duration="171000" />
+      <workItem from="1440337319573" duration="12465000" />
+      <workItem from="1440378740035" duration="30178000" />
+      <workItem from="1440421566916" duration="12613000" />
+      <workItem from="1440464496192" duration="25772000" />
+      <workItem from="1440571691580" duration="14842000" />
+      <workItem from="1440638149172" duration="8069000" />
+      <workItem from="1440660132506" duration="15203000" />
+      <workItem from="1440725610942" duration="9845000" />
+      <workItem from="1440740880098" duration="5962000" />
+      <workItem from="1440767095204" duration="7512000" />
+      <workItem from="1440809100321" duration="28244000" />
+      <workItem from="1440897489806" duration="39329000" />
+      <workItem from="1440985436745" duration="7898000" />
+      <workItem from="1440999966935" duration="16218000" />
+      <workItem from="1441027859326" duration="9512000" />
+      <workItem from="1441069453571" duration="28265000" />
+      <workItem from="1441117184443" duration="9423000" />
+      <workItem from="1441157306612" duration="22465000" />
+      <workItem from="1441200132266" duration="13080000" />
+      <workItem from="1441240243857" duration="12237000" />
+      <workItem from="1441255188622" duration="19724000" />
+      <workItem from="1441283326421" duration="15080000" />
+      <workItem from="1441342166081" duration="5966000" />
+      <workItem from="1441348367174" duration="105000" />
+      <workItem from="1441353647968" duration="308000" />
+      <workItem from="1441371892540" duration="15040000" />
+      <workItem from="1441444501465" duration="17086000" />
+      <workItem from="1441499976149" duration="11777000" />
+      <workItem from="1441544624983" duration="14360000" />
+      <workItem from="1441589014375" duration="15247000" />
+      <workItem from="1441608113963" duration="4986000" />
+      <workItem from="1441631177406" duration="9712000" />
+      <workItem from="1441673581514" duration="26922000" />
+      <workItem from="1441713515408" duration="2618000" />
+      <workItem from="1441722406953" duration="8802000" />
+      <workItem from="1441731690516" duration="60000" />
+      <workItem from="1441758768547" duration="27927000" />
+      <workItem from="1441802452909" duration="12947000" />
+      <workItem from="1441847063070" duration="23492000" />
+      <workItem from="1441888883826" duration="14373000" />
+      <workItem from="1441928133220" duration="1261000" />
+      <workItem from="1441931905676" duration="21881000" />
+      <workItem from="1441981662632" duration="9388000" />
+      <workItem from="1442066062955" duration="2991000" />
+      <workItem from="1442147977387" duration="13587000" />
+      <workItem from="1442201800688" duration="9309000" />
+      <workItem from="1442213738094" duration="6348000" />
+      <workItem from="1442241060040" duration="8844000" />
+      <workItem from="1442250051832" duration="131000" />
+      <workItem from="1442275221739" duration="1782000" />
+      <workItem from="1442280061186" duration="16235000" />
+      <workItem from="1442364596424" duration="22659000" />
+      <workItem from="1442410770517" duration="8492000" />
+      <workItem from="1442449254067" duration="14826000" />
+      <workItem from="1442491667703" duration="11496000" />
+      <workItem from="1442536613350" duration="10083000" />
+      <workItem from="1442582712651" duration="6541000" />
+      <workItem from="1442641505393" duration="16924000" />
+      <workItem from="1442662839737" duration="14883000" />
+      <workItem from="1442753867550" duration="13875000" />
+      <workItem from="1442797012244" duration="13175000" />
+      <workItem from="1442841779334" duration="10497000" />
+      <workItem from="1442887927000" duration="564000" />
+      <workItem from="1442888706169" duration="23392000" />
+      <workItem from="1442934408057" duration="6469000" />
+      <workItem from="1442965229096" duration="1599000" />
+      <workItem from="1442966854087" duration="1112000" />
+      <workItem from="1442970932879" duration="32824000" />
+      <workItem from="1443011869280" duration="9330000" />
+      <workItem from="1443062197647" duration="5796000" />
+      <workItem from="1443105021035" duration="6269000" />
+      <workItem from="1443145009238" duration="9130000" />
+      <workItem from="1443184314499" duration="4551000" />
+      <workItem from="1443193874191" duration="1735000" />
+      <workItem from="1443272774071" duration="4870000" />
+      <workItem from="1443328792873" duration="22228000" />
+      <workItem from="1443408332762" duration="1086000" />
+      <workItem from="1443447356426" duration="11895000" />
+      <workItem from="1443493490449" duration="14057000" />
+      <workItem from="1443541265890" duration="4769000" />
+      <workItem from="1443579734468" duration="6723000" />
+      <workItem from="1443610286242" duration="997000" />
+      <workItem from="1443615146411" duration="1992000" />
+      <workItem from="1443655561469" duration="2014000" />
+      <workItem from="1443671745880" duration="26159000" />
+      <workItem from="1443740285176" duration="1524000" />
+      <workItem from="1443757092038" duration="9602000" />
+      <workItem from="1443779578773" duration="22563000" />
+      <workItem from="1443830687531" duration="1351000" />
+      <workItem from="1443846123667" duration="8765000" />
+      <workItem from="1443854944066" duration="921000" />
+      <workItem from="1443860597458" duration="2938000" />
+      <workItem from="1443881906392" duration="4271000" />
+      <workItem from="1443928854042" duration="1236000" />
+      <workItem from="1443937812006" duration="7576000" />
+      <workItem from="1443951567146" duration="17541000" />
+      <workItem from="1443999981350" duration="21921000" />
+      <workItem from="1444046502987" duration="9511000" />
+      <workItem from="1444060088714" duration="56000" />
+      <workItem from="1444107857972" duration="5474000" />
+      <workItem from="1444138325963" duration="3132000" />
+      <workItem from="1444181344495" duration="4398000" />
+      <workItem from="1444264853070" duration="4190000" />
+      <workItem from="1444306783405" duration="12419000" />
+      <workItem from="1444352732998" duration="2381000" />
+      <workItem from="1444356687224" duration="18070000" />
+      <workItem from="1444386877308" duration="668000" />
+      <workItem from="1444460647274" duration="587000" />
+      <workItem from="1444485585407" duration="3050000" />
+      <workItem from="1444489441319" duration="1692000" />
+      <workItem from="1444526460207" duration="10599000" />
+      <workItem from="1444569305891" duration="8974000" />
+      <workItem from="1444579736201" duration="2963000" />
+      <workItem from="1444605788457" duration="1557000" />
+      <workItem from="1444607389674" duration="1010000" />
+      <workItem from="1444613544637" duration="3095000" />
+      <workItem from="1444702244005" duration="2781000" />
+      <workItem from="1444784731927" duration="6586000" />
+      <workItem from="1444791361700" duration="1122000" />
+      <workItem from="1444792510477" duration="3415000" />
+      <workItem from="1444795943364" duration="4172000" />
+      <workItem from="1444870351538" duration="8674000" />
+      <workItem from="1444888749989" duration="15835000" />
+      <workItem from="1444957434888" duration="14069000" />
+      <workItem from="1444978687580" duration="1355000" />
+      <workItem from="1445048144275" duration="14388000" />
+      <workItem from="1445149668462" duration="18259000" />
+      <workItem from="1445217240043" duration="12077000" />
+      <workItem from="1445301972830" duration="9748000" />
+      <workItem from="1445351629576" duration="2972000" />
+      <workItem from="1445388681580" duration="16863000" />
+      <workItem from="1445475484391" duration="9599000" />
+      <workItem from="1445561713647" duration="21431000" />
+      <workItem from="1445600411059" duration="2119000" />
+      <workItem from="1445694793436" duration="8597000" />
+      <workItem from="1445740956034" duration="17560000" />
+      <workItem from="1445820308794" duration="15151000" />
+      <workItem from="1445914362071" duration="28477000" />
+      <workItem from="1446083767506" duration="12268000" />
+      <workItem from="1446115728494" duration="1209000" />
+      <workItem from="1446127042999" duration="1401000" />
+      <workItem from="1446165682386" duration="9364000" />
+      <workItem from="1446212012032" duration="606000" />
+      <workItem from="1446219719663" duration="2266000" />
+      <workItem from="1446271960789" duration="17771000" />
+      <workItem from="1446365147126" duration="12910000" />
+      <workItem from="1446430004647" duration="4680000" />
+      <workItem from="1446513371769" duration="19387000" />
+      <workItem from="1446559966316" duration="4938000" />
+      <workItem from="1446600193490" duration="25090000" />
+      <workItem from="1446633044552" duration="1118000" />
+      <workItem from="1446642588296" duration="10551000" />
+      <workItem from="1446693174998" duration="7472000" />
+      <workItem from="1446732199278" duration="994000" />
+      <workItem from="1446776994664" duration="4529000" />
+      <workItem from="1446872105042" duration="22938000" />
+      <workItem from="1447044043592" duration="4106000" />
+      <workItem from="1447079333715" duration="9202000" />
+      <workItem from="1447124939097" duration="16591000" />
+      <workItem from="1447205892267" duration="11104000" />
+      <workItem from="1447294743559" duration="21577000" />
+      <workItem from="1447377362097" duration="4845000" />
+      <workItem from="1447382652750" duration="3513000" />
+      <workItem from="1447484279976" duration="1684000" />
+      <workItem from="1447549343581" duration="21776000" />
+      <workItem from="1447638276620" duration="11657000" />
+      <workItem from="1447684025140" duration="8490000" />
+      <workItem from="1447722679190" duration="20783000" />
+      <workItem from="1447769442017" duration="10343000" />
+      <workItem from="1447989939460" duration="3521000" />
+      <workItem from="1448017251242" duration="2734000" />
+      <workItem from="1448070174002" duration="997000" />
+      <workItem from="1448173413094" duration="1444000" />
+      <workItem from="1448249147260" duration="12991000" />
+      <workItem from="1448292115671" duration="4591000" />
+      <workItem from="1448328975808" duration="8651000" />
+      <workItem from="1448434917212" duration="2564000" />
+      <workItem from="1448511178006" duration="662000" />
+      <workItem from="1448514249759" duration="8678000" />
+      <workItem from="1448590026432" duration="19180000" />
+      <workItem from="1448690481879" duration="23148000" />
+      <workItem from="1448846161951" duration="16326000" />
+      <workItem from="1448864762422" duration="12560000" />
+      <workItem from="1448934716354" duration="5810000" />
+      <workItem from="1448966348488" duration="5850000" />
+      <workItem from="1449019328654" duration="2703000" />
+      <workItem from="1449036195287" duration="1899000" />
+      <workItem from="1449046645156" duration="3374000" />
+      <workItem from="1449105547578" duration="2940000" />
+      <workItem from="1449192979845" duration="1264000" />
+      <workItem from="1449291356638" duration="26091000" />
+      <workItem from="1449407019216" duration="8843000" />
+      <workItem from="1449451767314" duration="10494000" />
+      <workItem from="1449497264889" duration="5654000" />
+      <workItem from="1449537499263" duration="15499000" />
+      <workItem from="1449624309660" duration="9269000" />
+      <workItem from="1449673106378" duration="925000" />
+      <workItem from="1449710051553" duration="597000" />
+      <workItem from="1449718287978" duration="18263000" />
+      <workItem from="1449760028031" duration="1589000" />
+      <workItem from="1449763486191" duration="1538000" />
+      <workItem from="1449969938593" duration="4995000" />
+      <workItem from="1449982112594" duration="1094000" />
+      <workItem from="1449983499001" duration="1185000" />
+      <workItem from="1449985499881" duration="579000" />
+      <workItem from="1449986172219" duration="1085000" />
+      <workItem from="1449987871787" duration="3069000" />
+      <workItem from="1449992115614" duration="284000" />
+      <workItem from="1449992760343" duration="2866000" />
+      <workItem from="1450012698719" duration="2382000" />
+      <workItem from="1450021491732" duration="1519000" />
+      <workItem from="1450101277344" duration="3094000" />
+      <workItem from="1450140825905" duration="135000" />
+      <workItem from="1450150191328" duration="23050000" />
+      <workItem from="1450324913377" duration="2518000" />
+      <workItem from="1450360432722" duration="7222000" />
+      <workItem from="1450400310367" duration="19185000" />
+      <workItem from="1450487488628" duration="1660000" />
+      <workItem from="1450524144032" duration="18791000" />
+      <workItem from="1450583954992" duration="1223000" />
+      <workItem from="1450617711045" duration="9852000" />
+      <workItem from="1450674371339" duration="3905000" />
+      <workItem from="1450710647050" duration="752000" />
+      <workItem from="1450760264573" duration="1390000" />
+      <workItem from="1450946171987" duration="4218000" />
+      <workItem from="1450960209350" duration="16930000" />
+      <workItem from="1451146941541" duration="1592000" />
+      <workItem from="1451193836917" duration="3139000" />
+      <workItem from="1451289020876" duration="2161000" />
+      <workItem from="1451487118906" duration="7506000" />
+      <workItem from="1451532125429" duration="18865000" />
+      <workItem from="1451625981030" duration="3147000" />
+      <workItem from="1451695719918" duration="28352000" />
+      <workItem from="1451799889425" duration="3089000" />
+      <workItem from="1451811111074" duration="5990000" />
+      <workItem from="1451828000821" duration="6554000" />
+      <workItem from="1452043218792" duration="1666000" />
+      <workItem from="1452044949478" duration="35149000" />
+      <workItem from="1452199772242" duration="446000" />
+      <workItem from="1452200278286" duration="13039000" />
+      <workItem from="1452304581746" duration="100000" />
+      <workItem from="1452304739234" duration="2821000" />
+      <workItem from="1452399606466" duration="365000" />
+      <workItem from="1452400054478" duration="871000" />
+      <workItem from="1452401165608" duration="8561000" />
+      <workItem from="1452427472634" duration="1306000" />
+      <workItem from="1452428831465" duration="9740000" />
+      <workItem from="1452502325141" duration="588000" />
+      <workItem from="1452505028362" duration="758000" />
+      <workItem from="1452507223294" duration="758000" />
+      <workItem from="1452518488795" duration="15112000" />
+      <workItem from="1452562302904" duration="16469000" />
+      <workItem from="1452646028148" duration="2262000" />
+      <workItem from="1452733507823" duration="9317000" />
+      <workItem from="1452824378845" duration="71000" />
+      <workItem from="1452824499692" duration="7079000" />
+      <workItem from="1452909127845" duration="403000" />
+      <workItem from="1452917530612" duration="7593000" />
+      <workItem from="1452954406671" duration="5185000" />
+      <workItem from="1453011197446" duration="4308000" />
+      <workItem from="1453096356931" duration="1439000" />
+      <workItem from="1453174502067" duration="6708000" />
+      <workItem from="1453211494929" duration="11464000" />
+      <workItem from="1453370991669" duration="6442000" />
+      <workItem from="1453384529770" duration="1398000" />
+      <workItem from="1453429776226" duration="16077000" />
+      <workItem from="1453522982831" duration="4895000" />
+      <workItem from="1453803584193" duration="587000" />
+      <workItem from="1453806446006" duration="11561000" />
+      <workItem from="1453868302599" duration="8314000" />
+      <workItem from="1454133603688" duration="13663000" />
+      <workItem from="1454221836940" duration="17898000" />
+      <workItem from="1454291413870" duration="1533000" />
+      <workItem from="1454304863695" duration="3342000" />
+      <workItem from="1454329561703" duration="107000" />
+      <workItem from="1454332553231" duration="10199000" />
+      <workItem from="1454379361264" duration="13477000" />
+      <workItem from="1454459587120" duration="14832000" />
+      <workItem from="1454560744754" duration="15704000" />
+      <workItem from="1454651070099" duration="1771000" />
+      <workItem from="1455208603119" duration="3699000" />
+      <workItem from="1455248349146" duration="56721000" />
+      <workItem from="1455436447284" duration="44155000" />
+      <workItem from="1455522387198" duration="942000" />
+      <workItem from="1455523467991" duration="9035000" />
+      <workItem from="1455537937737" duration="36480000" />
+      <workItem from="1455628817988" duration="25284000" />
+      <workItem from="1455714679854" duration="6407000" />
+      <workItem from="1455766208860" duration="1405000" />
+      <workItem from="1455779799844" duration="6356000" />
+      <workItem from="1455891651707" duration="7705000" />
+      <workItem from="1455961628330" duration="5643000" />
+      <workItem from="1456040321981" duration="90000" />
+      <workItem from="1456040449795" duration="4528000" />
+      <workItem from="1456103909714" duration="476000" />
+      <workItem from="1456148816054" duration="1716000" />
+      <workItem from="1456190553438" duration="1258000" />
+      <workItem from="1456199540506" duration="881000" />
+      <workItem from="1456216405300" duration="1577000" />
+      <workItem from="1456231562433" duration="10000" />
+      <workItem from="1456233881398" duration="809000" />
+      <workItem from="1456282347245" duration="6945000" />
+      <workItem from="1457364117533" duration="116000" />
+    </task>
+    <task id="LOCAL-01341" summary="add recalculate production rate function">
+      <created>1455601077358</created>
+      <option name="number" value="01341" />
+      <option name="project" value="LOCAL" />
+      <updated>1455601077358</updated>
+    </task>
+    <task id="LOCAL-01342" summary="add recalculate production rate function">
+      <created>1455601669257</created>
+      <option name="number" value="01342" />
+      <option name="project" value="LOCAL" />
+      <updated>1455601669257</updated>
+    </task>
+    <task id="LOCAL-01343" summary="add recalculate production rate function">
+      <created>1455602243666</created>
+      <option name="number" value="01343" />
+      <option name="project" value="LOCAL" />
+      <updated>1455602243666</updated>
+    </task>
+    <task id="LOCAL-01344" summary="fix manufacture edit layout">
+      <created>1455603461384</created>
+      <option name="number" value="01344" />
+      <option name="project" value="LOCAL" />
+      <updated>1455603461384</updated>
+    </task>
+    <task id="LOCAL-01345" summary="Add source toString()">
+      <created>1455603778261</created>
+      <option name="number" value="01345" />
+      <option name="project" value="LOCAL" />
+      <updated>1455603778261</updated>
+    </task>
+    <task id="LOCAL-01346" summary="change toString()">
+      <created>1455604293221</created>
+      <option name="number" value="01346" />
+      <option name="project" value="LOCAL" />
+      <updated>1455604293221</updated>
+    </task>
+    <task id="LOCAL-01347" summary="change toString()">
+      <created>1455604678642</created>
+      <option name="number" value="01347" />
+      <option name="project" value="LOCAL" />
+      <updated>1455604678642</updated>
+    </task>
+    <task id="LOCAL-01348" summary="fix null pointer">
+      <created>1455605971241</created>
+      <option name="number" value="01348" />
+      <option name="project" value="LOCAL" />
+      <updated>1455605971242</updated>
+    </task>
+    <task id="LOCAL-01349" summary="fix null pointer">
+      <created>1455606154479</created>
+      <option name="number" value="01349" />
+      <option name="project" value="LOCAL" />
+      <updated>1455606154479</updated>
+    </task>
+    <task id="LOCAL-01350" summary="fix null pointer">
+      <created>1455607842792</created>
+      <option name="number" value="01350" />
+      <option name="project" value="LOCAL" />
+      <updated>1455607842792</updated>
+    </task>
+    <task id="LOCAL-01351" summary="fix null pointer">
+      <created>1455611737086</created>
+      <option name="number" value="01351" />
+      <option name="project" value="LOCAL" />
+      <updated>1455611737087</updated>
+    </task>
+    <task id="LOCAL-01352" summary="fix division by zero">
+      <created>1455613081566</created>
+      <option name="number" value="01352" />
+      <option name="project" value="LOCAL" />
+      <updated>1455613081566</updated>
+    </task>
+    <task id="LOCAL-01353" summary="fix division by zero">
+      <created>1455614733968</created>
+      <option name="number" value="01353" />
+      <option name="project" value="LOCAL" />
+      <updated>1455614733968</updated>
+    </task>
+    <task id="LOCAL-01354" summary="add munufacture list feature">
+      <created>1455631421550</created>
+      <option name="number" value="01354" />
+      <option name="project" value="LOCAL" />
+      <updated>1455631421551</updated>
+    </task>
+    <task id="LOCAL-01355" summary="add source">
+      <created>1455636025765</created>
+      <option name="number" value="01355" />
+      <option name="project" value="LOCAL" />
+      <updated>1455636025765</updated>
+    </task>
+    <task id="LOCAL-01356" summary="add source">
+      <created>1455637875415</created>
+      <option name="number" value="01356" />
+      <option name="project" value="LOCAL" />
+      <updated>1455637875415</updated>
+    </task>
+    <task id="LOCAL-01357" summary="ix miaoxin process display发">
+      <created>1455638269278</created>
+      <option name="number" value="01357" />
+      <option name="project" value="LOCAL" />
+      <updated>1455638269278</updated>
+    </task>
+    <task id="LOCAL-01358" summary="fix stock move missing field">
+      <created>1455639065785</created>
+      <option name="number" value="01358" />
+      <option name="project" value="LOCAL" />
+      <updated>1455639065785</updated>
+    </task>
+    <task id="LOCAL-01359" summary="fix stock move missing field">
+      <created>1455639321201</created>
+      <option name="number" value="01359" />
+      <option name="project" value="LOCAL" />
+      <updated>1455639321201</updated>
+    </task>
+    <task id="LOCAL-01360" summary="fix stock move missing field">
+      <created>1455640046248</created>
+      <option name="number" value="01360" />
+      <option name="project" value="LOCAL" />
+      <updated>1455640046252</updated>
+    </task>
+    <task id="LOCAL-01361" summary="fix cannot recalculate production rate">
+      <created>1455640840745</created>
+      <option name="number" value="01361" />
+      <option name="project" value="LOCAL" />
+      <updated>1455640840745</updated>
+    </task>
+    <task id="LOCAL-01362" summary="fix cannot recalculate production rate">
+      <created>1455643069953</created>
+      <option name="number" value="01362" />
+      <option name="project" value="LOCAL" />
+      <updated>1455643070026</updated>
+    </task>
+    <task id="LOCAL-01363" summary="fix cannot recalculate production rate">
+      <created>1455673793816</created>
+      <option name="number" value="01363" />
+      <option name="project" value="LOCAL" />
+      <updated>1455673793816</updated>
+    </task>
+    <task id="LOCAL-01364" summary="change stock move to string">
+      <created>1455674526195</created>
+      <option name="number" value="01364" />
+      <option name="project" value="LOCAL" />
+      <updated>1455674526195</updated>
+    </task>
+    <task id="LOCAL-01365" summary="change procurement show page">
+      <created>1455677181135</created>
+      <option name="number" value="01365" />
+      <option name="project" value="LOCAL" />
+      <updated>1455677181135</updated>
+    </task>
+    <task id="LOCAL-01366" summary="fix after procurement stock wrong">
+      <created>1455679965066</created>
+      <option name="number" value="01366" />
+      <option name="project" value="LOCAL" />
+      <updated>1455679965066</updated>
+    </task>
+    <task id="LOCAL-01367" summary="fix after procurement stock wrong">
+      <created>1455680464432</created>
+      <option name="number" value="01367" />
+      <option name="project" value="LOCAL" />
+      <updated>1455680464432</updated>
+    </task>
+    <task id="LOCAL-01368" summary="add delivery list">
+      <created>1455704795718</created>
+      <option name="number" value="01368" />
+      <option name="project" value="LOCAL" />
+      <updated>1455704795719</updated>
+    </task>
+    <task id="LOCAL-01369" summary="add procurement list">
+      <created>1455706267053</created>
+      <option name="number" value="01369" />
+      <option name="project" value="LOCAL" />
+      <updated>1455706267053</updated>
+    </task>
+    <task id="LOCAL-01370" summary="add sum in delivery list">
+      <created>1455706786593</created>
+      <option name="number" value="01370" />
+      <option name="project" value="LOCAL" />
+      <updated>1455706786593</updated>
+    </task>
+    <task id="LOCAL-01371" summary="hide btn before today">
+      <created>1455719094281</created>
+      <option name="number" value="01371" />
+      <option name="project" value="LOCAL" />
+      <updated>1455719094282</updated>
+    </task>
+    <task id="LOCAL-01372" summary="hide btn before today">
+      <created>1455719488370</created>
+      <option name="number" value="01372" />
+      <option name="project" value="LOCAL" />
+      <updated>1455719488370</updated>
+    </task>
+    <task id="LOCAL-01373" summary="hide btn before today">
+      <created>1455721668410</created>
+      <option name="number" value="01373" />
+      <option name="project" value="LOCAL" />
+      <updated>1455721668410</updated>
+    </task>
+    <task id="LOCAL-01374" summary="make it be able to add manufacture without procurement">
+      <created>1455899724930</created>
+      <option name="number" value="01374" />
+      <option name="project" value="LOCAL" />
+      <updated>1455899724931</updated>
+    </task>
+    <task id="LOCAL-01375" summary="make it be able to add manufacture without procurement">
+      <created>1455900604538</created>
+      <option name="number" value="01375" />
+      <option name="project" value="LOCAL" />
+      <updated>1455900604538</updated>
+    </task>
+    <task id="LOCAL-01376" summary="make it be able to add manufacture without procurement">
+      <created>1455961883414</created>
+      <option name="number" value="01376" />
+      <option name="project" value="LOCAL" />
+      <updated>1455961883415</updated>
+    </task>
+    <task id="LOCAL-01377" summary="make it be able to add manufacture without procurement">
+      <created>1455963470119</created>
+      <option name="number" value="01377" />
+      <option name="project" value="LOCAL" />
+      <updated>1455963470120</updated>
+    </task>
+    <task id="LOCAL-01378" summary="make it be able to add manufacture without procurement">
+      <created>1455963640306</created>
+      <option name="number" value="01378" />
+      <option name="project" value="LOCAL" />
+      <updated>1455963640306</updated>
+    </task>
+    <task id="LOCAL-01379" summary="make it be able to add manufacture without procurement">
+      <created>1455978089710</created>
+      <option name="number" value="01379" />
+      <option name="project" value="LOCAL" />
+      <updated>1455978089710</updated>
+    </task>
+    <task id="LOCAL-01380" summary="make it be able to add manufacture without procurement">
+      <created>1455979530688</created>
+      <option name="number" value="01380" />
+      <option name="project" value="LOCAL" />
+      <updated>1455979530688</updated>
+    </task>
+    <task id="LOCAL-01381" summary="try to fix wechat &quot;no reply&quot; message when user input text">
+      <created>1456041519525</created>
+      <option name="number" value="01381" />
+      <option name="project" value="LOCAL" />
+      <updated>1456041519526</updated>
+    </task>
+    <task id="LOCAL-01382" summary="try to fix wechat &quot;no reply&quot; message when user input text">
+      <created>1456042318041</created>
+      <option name="number" value="01382" />
+      <option name="project" value="LOCAL" />
+      <updated>1456042318041</updated>
+    </task>
+    <task id="LOCAL-01383" summary="hide manufacture and delivery button">
+      <created>1456050286213</created>
+      <option name="number" value="01383" />
+      <option name="project" value="LOCAL" />
+      <updated>1456050286213</updated>
+    </task>
+    <task id="LOCAL-01384" summary="fix display incorrect">
+      <created>1456218132647</created>
+      <option name="number" value="01384" />
+      <option name="project" value="LOCAL" />
+      <updated>1456218132648</updated>
+    </task>
+    <task id="LOCAL-01385" summary="fix display incorrect">
+      <created>1456283200569</created>
+      <option name="number" value="01385" />
+      <option name="project" value="LOCAL" />
+      <updated>1456283200570</updated>
+    </task>
+    <task id="LOCAL-01386" summary="fix display incorrect">
+      <created>1456284478694</created>
+      <option name="number" value="01386" />
+      <option name="project" value="LOCAL" />
+      <updated>1456284478695</updated>
+    </task>
+    <task id="LOCAL-01387" summary="fix display incorrect">
+      <created>1456285809759</created>
+      <option name="number" value="01387" />
+      <option name="project" value="LOCAL" />
+      <updated>1456285809759</updated>
+    </task>
+    <task id="LOCAL-01388" summary="fix display incorrect">
+      <created>1456288908184</created>
+      <option name="number" value="01388" />
+      <option name="project" value="LOCAL" />
+      <updated>1456288908184</updated>
+    </task>
+    <task id="LOCAL-01389" summary="fix display incorrect">
+      <created>1456289596698</created>
+      <option name="number" value="01389" />
+      <option name="project" value="LOCAL" />
+      <updated>1456289596698</updated>
+    </task>
+    <option name="localTasksCounter" value="1390" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2883089000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1296" height="776" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32626426" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26836583" sideWeight="0.37578124" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32959184" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22012103" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34313726" sideWeight="0.57564294" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34640524" sideWeight="0.60714287" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32789558" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32952693" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28348213" sideWeight="0.52136755" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28290468" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21028744" sideWeight="0.5352423" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26836583" sideWeight="0.62421876" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30030257" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24886535" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25306123" sideWeight="0.5283308" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34640524" sideWeight="0.5900151" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Grails View" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3140625" sideWeight="0.47166923" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33169934" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16503268" sideWeight="0.5854766" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.625817" sideWeight="0.39285713" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32959184" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22012103" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26960784" sideWeight="0.6633888" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30030257" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24886535" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Grails View" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23373677" sideWeight="0.47166923" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34640524" sideWeight="0.5900151" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32626426" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33169934" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.375817" sideWeight="0.57564294" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34640524" sideWeight="0.60714287" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32789558" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32952693" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28348213" sideWeight="0.52136755" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28290468" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21028744" sideWeight="0.5352423" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30228758" sideWeight="0.5854766" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25306123" sideWeight="0.5283308" order="5" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.Settings">
+    <option name="SHOW_BRANCHES_PANEL" value="true" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="add before delivery stock weight" />
+    <MESSAGE value="fix dead loop in redirect" />
+    <MESSAGE value="fix miaoxin process layout" />
+    <MESSAGE value="add recalculate production rate function" />
+    <MESSAGE value="fix manufacture edit layout" />
+    <MESSAGE value="Add source toString()" />
+    <MESSAGE value="change toString()" />
+    <MESSAGE value="fix null pointer" />
+    <MESSAGE value="fix division by zero" />
+    <MESSAGE value="add munufacture list feature" />
+    <MESSAGE value="add source" />
+    <MESSAGE value="ix miaoxin process display发" />
+    <MESSAGE value="fix stock move missing field" />
+    <MESSAGE value="fix cannot recalculate production rate" />
+    <MESSAGE value="change stock move to string" />
+    <MESSAGE value="change procurement show page" />
+    <MESSAGE value="fix after procurement stock wrong" />
+    <MESSAGE value="add delivery list" />
+    <MESSAGE value="add procurement list" />
+    <MESSAGE value="add sum in delivery list" />
+    <MESSAGE value="hide btn before today" />
+    <MESSAGE value="make it be able to add manufacture without procurement" />
+    <MESSAGE value="try to fix wechat &quot;no reply&quot; message when user input text" />
+    <MESSAGE value="hide manufacture and delivery button" />
+    <MESSAGE value="fix display incorrect" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix display incorrect" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.78867924" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/unit/net/xunzhenji/domain/BatchSpec.groovy</url>
+          <line>58</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$USER_HOME$/.grails/2.5.0/projects/xzj-weixin/plugins/database-migration-1.2.1/src/groovy/grails/plugin/databasemigration/MigrationUtils.groovy</url>
+          <line>157</line>
+          <properties />
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/grails-app/services/net/xunzhenji/TemplateMessageService.groovy</url>
+          <line>41</line>
+          <properties />
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/grails-app/views/h5/_address.gsp</url>
+          <line>103</line>
+          <properties />
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/grails-app/views/h5/home.gsp</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="149" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/grails-app/services/net/xunzhenji/MobileMsgService.groovy</url>
+          <line>96</line>
+          <properties />
+          <option name="timeStamp" value="199" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/grails-app/services/net/xunzhenji/vendor/XiYuanSmsService.groovy</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="208" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/grails-app/controllers/net/xunzhenji/wechat/WeChatCouponController.groovy</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="396" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/grails-app/services/net/xunzhenji/wechat/WeChatPayService.groovy</url>
+          <line>294</line>
+          <properties />
+          <option name="timeStamp" value="398" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/grails-app/controllers/net/xunzhenji/LocationController.groovy</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="427" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/grails-app/controllers/net/xunzhenji/shop/QuoteController.groovy</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="475" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/grails-app/services/net/xunzhenji/wechat/WeChatService.groovy</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="482" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/grails-app/services/net/xunzhenji/wechat/WeChatService.groovy</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="483" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/grails-app/controllers/net/xunzhenji/workflow/WorkflowController.groovy</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="527" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/grails-app/assets/javascripts/h5/payment.js</url>
+          <line>41</line>
+          <option name="timeStamp" value="438" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="529" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="GrailsRunConfigurationType">
+        <watch expression="process.manufacture.outputWeight" language="Groovy" custom="" />
+        <watch expression="wareHouse.getWeightByProduct(product)" language="Groovy" custom="" />
+        <watch expression="totalDeliveredWeight" language="Groovy" custom="" />
+        <watch expression="params" language="Groovy" custom="" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/grails-app/assets/javascripts/h5/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="363" column="56" selection-start-line="363" selection-start-column="56" selection-end-line="363" selection-end-column="56" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/miaoXinProcess/index.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.6923075">
+          <caret line="53" column="101" selection-start-line="53" selection-start-column="101" selection-end-line="53" selection-end-column="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/miaoXinProcess/show.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.8269231">
+          <caret line="147" column="109" selection-start-line="147" selection-start-column="109" selection-end-line="147" selection-end-column="109" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/domain/net/xunzhenji/shop/Source.groovy">
+      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.388889">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/source/_form.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.1346154">
+          <caret line="50" column="8" selection-start-line="50" selection-start-column="8" selection-end-line="50" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/controllers/net/xunzhenji/workflow/MiaoXinProcessController.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.888889">
+          <caret line="103" column="18" selection-start-line="103" selection-start-column="18" selection-end-line="103" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/domain/net/xunzhenji/shop/StockMove.groovy">
+      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.2407408">
+          <caret line="43" column="35" selection-start-line="43" selection-start-column="35" selection-end-line="43" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/procurement/show.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.038462">
+          <caret line="105" column="0" selection-start-line="105" selection-start-column="0" selection-end-line="105" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/controllers/net/xunzhenji/workflow/MiaoXinWorkflowController.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.1666667">
+          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/workflow/_manufactureList.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.0192307">
+          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/h5/_links.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="86" column="89" selection-start-line="86" selection-start-column="89" selection-end-line="86" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/workflow/miaoxin.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="35" column="41" selection-start-line="35" selection-start-column="41" selection-end-line="35" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/domain/net/xunzhenji/mall/Delivery.groovy">
+      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/assets/stylesheets/weui/weui.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.5862069">
+          <caret line="471" column="17" selection-start-line="471" selection-start-column="1" selection-end-line="471" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/assets/stylesheets/weui/weui.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.642857">
+          <caret line="439" column="19" selection-start-line="439" selection-start-column="19" selection-end-line="439" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/workflow/_deliveryList.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8098361">
+          <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/assets/stylesheets/workflow/miaoxin.css.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.51975685">
+          <caret line="76" column="21" selection-start-line="76" selection-start-column="21" selection-end-line="76" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/services/net/xunzhenji/wechat/WeChatBasicService.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7338936">
+          <caret line="48" column="0" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/workflow/_delivery.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.25245902">
+          <caret line="44" column="99" selection-start-line="44" selection-start-column="99" selection-end-line="44" selection-end-column="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/domain/net/xunzhenji/shop/ProductUnit.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.007832898">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/workflow/_manufacture.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="27" column="18" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/domain/net/xunzhenji/workflow/MiaoXinWorkflow.groovy">
+      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.35446686">
+          <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/workflow/_procurementList.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="105" selection-start-line="25" selection-start-column="102" selection-end-line="25" selection-end-column="105" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/assets/javascripts/workflow/miaoxin.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.092269324">
+          <caret line="184" column="41" selection-start-line="184" selection-start-column="41" selection-end-line="184" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/workflow/_procurement.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="37" column="80" selection-start-line="37" selection-start-column="80" selection-end-line="37" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/controllers/net/xunzhenji/shop/ShopController.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/shop/_form.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="66" column="20" selection-start-line="66" selection-start-column="20" selection-end-line="66" selection-end-column="134" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/domain/net/xunzhenji/shop/ShopProduct.groovy">
+      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/services/net/xunzhenji/wechat/WeChatPullService.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="171" column="19" selection-start-line="171" selection-start-column="19" selection-end-line="171" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/controllers/net/xunzhenji/wechat/WeChatController.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/domain/net/xunzhenji/shop/ShopDelivery.groovy">
+      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/domain/net/xunzhenji/shop/Shop.groovy">
+      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4536862">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/domain/net/xunzhenji/shop/ShopPrice.groovy">
+      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4310019">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/domain/net/xunzhenji/mall/SpecialDay.groovy">
+      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="34" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/domain/net/xunzhenji/mall/ProductOrder.groovy">
+      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="406" column="13" selection-start-line="406" selection-start-column="13" selection-end-line="406" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/domain/net/xunzhenji/workflow/MiaoXinProcess.groovy">
+      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="67" column="30" selection-start-line="67" selection-start-column="8" selection-end-line="67" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/controllers/net/xunzhenji/QrCodeController.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/controllers/net/xunzhenji/editor/MessageController.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/utils/net/xunzhenji/util/ErrorCodeUtil.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="53" column="18" selection-start-line="53" selection-start-column="18" selection-end-line="53" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/controllers/net/xunzhenji/mall/H5Controller.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="118" column="33" selection-start-line="118" selection-start-column="33" selection-end-line="118" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/h5/home.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/assets/javascripts/h5/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="363" column="56" selection-start-line="363" selection-start-column="56" selection-end-line="363" selection-end-column="56" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/utils/net/xunzhenji/util/FormatUtil.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="105" column="5" selection-start-line="105" selection-start-column="5" selection-end-line="105" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/workflow/_home.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="133" column="37" selection-start-line="133" selection-start-column="37" selection-end-line="133" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/i18n/messages_zh_CN.properties">
+      <provider editor-type-id="ResourceBundle">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="38" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/controllers/net/xunzhenji/workflow/WorkflowController.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="82" column="38" selection-start-line="82" selection-start-column="38" selection-end-line="82" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/domain/net/xunzhenji/shop/Procurement.groovy">
+      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/procurement/_form.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="51" column="13" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/manufacture/_form.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5292096">
+          <caret line="112" column="9" selection-start-line="112" selection-start-column="9" selection-end-line="112" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/domain/net/xunzhenji/shop/Manufacture.groovy">
+      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/conf/BootStrap.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.06318083">
+          <caret line="331" column="37" selection-start-line="331" selection-start-column="37" selection-end-line="331" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="grailsSettings">
+    <option name="map">
+      <map>
+        <entry key="xzj-weixin">
+          <value>
+            <GrailsSettings>
+              <option name="buildConfigCrc" value="-675524191" />
+              <option name="pluginDependenciesCrc" value="-1908835840" />
+              <option name="properties">
+                <map>
+                  <entry key="grails.global.plugins.dir" value="C:\Users\Irene\.grails\2.5.0\global-plugins" />
+                  <entry key="grails.project.fork.run" value="false" />
+                  <entry key="grails.project.fork.test" value="false" />
+                  <entry key="grails.project.plugins.dir" value="C:\Users\Irene\.grails\2.5.0\projects\xzj-weixin\plugins" />
+                  <entry key="grails.project.work.dir" value="C:\Users\Irene\.grails\2.5.0\projects\xzj-weixin" />
+                  <entry key="grails.work.dir" value="C:\Users\Irene\.grails\2.5.0" />
+                </map>
+              </option>
+            </GrailsSettings>
+          </value>
+        </entry>
+        <entry key="xzj-weixin-grailsPlugins">
+          <value>
+            <GrailsSettings />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Hibernate</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>grails-2.5.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>xzj-weixin</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

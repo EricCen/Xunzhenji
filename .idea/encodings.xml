@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/grails-app/assets/images/uploaded-img-close.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/grails-app/assets/javascripts/jquery-ui-1.10.4.custom.min.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/grails-app/assets/javascripts/jquery.fileupload.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/grails-app/assets/javascripts/jquery.iframe-transport.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/grails-app/assets/javascripts/upyun.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/grails-app/conf/BootStrap.groovy" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/grails-app/domain/net/xunzhenji/SmsSetting.groovy" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/grails-app/domain/net/xunzhenji/wechat/WeChatGroup.groovy" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/grails-app/services/net/xunzhenji/wechat/WeChatBasicService.groovy" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/grails-app/services/net/xunzhenji/wechat/WeChatPullService.groovy" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/grails-app/services/net/xunzhenji/wechat/WeChatPushService.groovy" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/grails-app/views/image/edit.gsp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web-app/artDialog" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/web-app/kindeditor" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

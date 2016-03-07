@@ -1,0 +1,428 @@
+/*
+ * Copyright (c) 2015 广州市源穑农业科技发展有限公司 版权所有
+ * GUANGZHOU YUANSE AGRICULTURE TECHNOLOGY CO.,LTD. All Rights Reserved.
+ */
+
+@import "color";
+
+.organizerForm label {
+    display: inline;
+    float: none;
+}
+
+.organizerForm input {
+    height: 26px;
+    padding: 1px 5px;
+}
+
+#lxgroup label {
+    padding: 5px
+}
+
+#lxgroup input {
+    height: 26px;
+}
+
+input#deliveryService {
+    float: left;
+}
+
+.group-home-btns {
+    padding: 10px;
+
+    div {
+        padding: 10px 0;
+
+        i.fa {
+            margin: 0 5px;
+        }
+    }
+}
+
+[role=availableDay],
+[role=deliveryService] {
+    div:nth-child(2){
+        text-align: center;
+    }
+}
+
+#lxgroup-view {
+    .pages {
+        .panel{
+            background-color: white;
+        }
+    }
+    .list.inset{
+        border: 1px solid @lightGreenColor;
+
+        li {
+            padding: 20px 20px 20px 10px;
+            border-bottom: 1px solid @lightGreenColor;
+        }
+
+        li:last-child {
+            border-bottom: none;
+            margin-bottom: 3px;
+        }
+
+        li.divider {
+            padding: 3px 20px 3px 10px;
+            background-color: @lightGreenColor;
+        }
+    }
+
+    footer {
+        background-color: @lightGreenColor;
+        border: none;
+
+        a {
+            width: 100%;
+            text-align: center;
+            i{
+                font-size: 1.8em;
+            }
+        }
+    }
+}
+
+#explorer-groups-nearby {
+    #lxgroup-map-container {
+        width: 100%;
+        height: 100%;
+
+        .csssprite {
+            opacity: 0.8;
+            border-radius: 40px;
+        }
+
+        .smnoprint{
+            display: inherit;
+        }
+
+        div.lxgroup-member {
+            height: 44px;
+            width: 44px;
+            margin: -2px;
+            border-radius: 40px;
+            overflow: hidden;
+            border: 2px dotted @orangeColor !important;
+            .csssprite {
+                margin: -2px !important;
+            }
+        }
+
+    }
+
+    .select-group-btns {
+        position: absolute;
+        left: 10px;
+        top: 10px;
+
+        .pressed{
+            background-color: @lightGreenColor;
+            color: white;
+        }
+    }
+}
+
+#lxgroup-view.view {
+    .panel {
+        .list {
+            background-color: white;
+            color: @lightDarkColor;
+        }
+    }
+}
+
+#my-lxgroup-member-list-ul,
+#my-lxgroup-list-ul {
+    li {
+        list-style: none;
+        border-bottom: none;
+        background-color: white;
+
+        .lxgroup-avatar-item {
+            height: 80px;
+            border-bottom: 1px solid lightgrey;
+            margin: 0 10px;
+
+            .lxgroup-name-group {
+                padding: 8px 0;
+            }
+            img.avatar{
+                margin: 15px 15px 15px 0;
+                width: 50px;
+                height: 50px;
+            }
+            .grey {
+                color: grey;
+            }
+        }
+        >a:after {
+            right: 25px;
+        }
+    }
+}
+#lxgroup-view.view div#lxgroup-member-detail-panel.panel,
+#lxgroup-view.view div#lxgroup-detail-panel.panel {
+    .avatar-group {
+        background-color: white;
+        height: 80px;
+        margin: 8px 0;
+
+        .lxgroup-name-group {
+            padding: 8px 0;
+        }
+        img.avatar{
+            margin: 15px 15px 15px 0;
+            width: 50px;
+            height: 50px;
+        }
+        .grey {
+            color: grey;
+        }
+    }
+    .input-group{
+        background-color: white;
+        border: none;
+
+        .input-row {
+            padding: 1em 0.5em;
+            border-bottom: 1px solid lightgrey;
+            margin: 0 10px;
+        }
+
+        .input-row:last-child {
+            border-bottom: none;
+        }
+    }
+}
+
+#my-commission-panel{
+    .commission1 {
+        height: 8em;
+        background-color: @blueColor;
+        color: white;
+        line-height: 1;
+        text-align: center;
+
+        .top-text {
+            padding: 5px;
+        }
+        .today-commission {
+            font-size: 5em;
+            padding: 0 20px;
+        }
+
+        i.fa {
+            margin: 0 5px;
+        }
+    }
+
+    .commission2 {
+        height: 13em;
+
+        .grid{
+            overflow: inherit;
+        }
+        div.amount{
+            color: @lightDarkColor;
+        }
+        .extractable-amt {
+            width: 100%;
+            padding: 5px;
+            text-align: center;
+
+            div.amount{
+                font-size: 2.5em;
+                color: @lightRedColor;
+            }
+        }
+
+        .label-text {
+            color: @greyColor;
+            font-size: 0.8em;
+        }
+
+        .box{
+            display: block;
+            height: 5em;
+            border-top: 1px solid #E6E5E5;
+            text-align: center;
+            .inner-box{
+                margin: 15px 0;
+            }
+            .inner-box:first-child{
+                border-right: 1px solid #E6E5E5;
+            }
+            .amount {
+                font-size: 1.3em;
+            }
+        }
+        .box:last-child{
+            border-left: none;
+        }
+    }
+
+    .commission3{
+        text-align: center;
+        a {
+            color: @redColor;
+        }
+    }
+
+    a.extract{
+        background-color: @redColor;
+    }
+    a.transfer-to-account{
+        background-color: @lightGreenColor;
+    }
+    a.extract,
+    a.transfer-to-account{
+        color: white;
+        margin: 5px 0;
+    }
+    a.dim {
+        color: grey !important;
+    }
+}
+
+#commission-history-ul {
+    .commission-history-row{
+        display: block;
+        height: 60px;
+        border-bottom: 1px solid lightgrey;
+        margin: 0 10px;
+
+        div.head-image{
+            padding: 10px 0;
+            float: left;
+        }
+        div.product-amount{
+            padding: 9px 5px;
+
+            .plus {
+                color: @redColor;
+            }
+            .minus{
+                color: @greenColor;
+            }
+
+
+            .grey{
+                color: @greyColor;
+            }
+
+            .product{
+                display: block;
+                padding: 0 5px;
+                float: left;
+            }
+            .amount{
+                float: right;
+                right: 0;
+                line-height: 40px;
+                position: absolute;
+            }
+            .amount:before{
+                content: "";
+            }
+
+            .state {
+                background-color: @redColor;
+                color: white;
+                border-radius: 10px;
+                padding: 0 5px;
+            }
+
+            .confirm{
+                background-color: @lightGreenColor;
+            }
+            .done{
+                background-color: @greyColor;
+                color: @blackColor;
+            }
+        }
+    }
+}
+
+#lxgroup-delivery-detail{
+
+    img.product-img {
+        padding: 10px;
+    }
+
+    .product-info{
+        div.product-title{
+            padding: 10px 0 0 0;
+            font-weight: bold;
+        }
+        span.delivery-info,
+        span.commission-info
+        {
+            color: grey;
+            padding-right: 10px;
+        }
+        .success{
+            color: @greenColor;
+        }
+        .fail{
+            color: @redColor;
+        }
+    }
+
+    i {
+        color: @lightGreenColor;
+    }
+
+    .contact-info {
+        padding: 5px;
+    }
+
+    ul#lxgroup-delivery-orders-list{
+        li{
+            border-top: 1px dashed green;
+            border-bottom: 1px dashed green;
+
+            img.img-circle {
+                margin: 10px;
+            }
+
+            i.fa{
+                margin-right: 5px;
+            }
+            .action-group{
+                height: 38px;
+                border-top: 1px solid @greyColor;
+                padding: 4px;
+                a{
+                    float: right;
+                    right: 10px;
+                }
+            }
+        }
+    }
+}
+
+#lxgroup-order-management{
+    .filter-group{
+        display: block;
+        height: 50px;
+    }
+    input[type="checkbox"] + label {
+        display: inline-block;
+        width: 40%;
+        float: left;
+        text-align: left;
+        margin-left: 30px;
+    }
+
+    #lxgroup-delivery-list{
+        > li > a{
+            padding: 0;
+            margin: 0;
+        }
+    }
+
+}
+
